@@ -11,4 +11,4 @@ Curso: Análise e Desenvolvimento de Sistemas | 1º Período em Linguagem de For
 
 Link do site: https://meruria-desu.github.io/site-fatefashion-bootstrap/
 
-<img src="https://art.pixilart.com/ca60daa1104a425.gif](https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif">
+<img src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif">
